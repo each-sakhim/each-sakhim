@@ -1,7 +1,7 @@
 # Hi there, I'm Each Sakhim 👋
 
 - 🎓 **Year 3** Computer Science Student at **Svay Rieng University (SRU)**
-- 🔭 Currently working on **Java, Spring Boot & Web Development**
+- 🔭 Currently learning on **Java, Spring Boot & Web Development**
 - 🌱 Learning **Software Engineering & Data Structures**
 - 📫 Reach me at: **saakhimeach@gmail.com**
 
