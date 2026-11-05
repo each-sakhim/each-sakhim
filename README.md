@@ -30,11 +30,13 @@
 
 ### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=each-sakhim&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=each-sakhim&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=each-sakhim&layout=compact&theme=tokyonight)
----
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=each-sakhim&theme=tokyonight&no-frame=true&column=4" alt="GitHub Trophies" />
+</p>
 
 ### 💬 Connect With Me
 
